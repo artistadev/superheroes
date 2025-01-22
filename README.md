@@ -1,2 +1,2 @@
-# superheroes
-A fun web project to explore superheroes
+1. Create gh-pages branch
+2. Confirm the index.html contains <base href="https://<github-username>.github.io/<repository-name>/">
