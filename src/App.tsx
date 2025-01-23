@@ -2,16 +2,16 @@
 import './style.css';
 import './App.css'
 
-import Home from './app/home/home'
-import Character from './app/character/character'
+import Home from './components/home/home'
 
 function App() {
 
   return (
     <>
-      Superheroes project
-      <Home />
-      <Character />
+      <div>
+        Superheroes project
+        <Home />
+      </div>
     </>
   )
 }
