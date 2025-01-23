@@ -1,0 +1,21 @@
+
+.navigation-bar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.top-carousel {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.main-content {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
